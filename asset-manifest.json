@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/technotactics_live/static/css/main.2ad14308.css",
-    "main.js": "/technotactics_live/static/js/main.79f19e1d.js",
+    "main.js": "/technotactics_live/static/js/main.2a46d46c.js",
     "static/media/Fire-Fighter-VR.png": "/technotactics_live/static/media/Fire-Fighter-VR.091264823a19f9992a98.png",
     "static/media/NFT.png": "/technotactics_live/static/media/NFT.91c577da8144274b1c6e.png",
     "static/media/MMO.png": "/technotactics_live/static/media/MMO.032782856796c13ddff9.png",
@@ -30,10 +30,10 @@
     "static/media/tt.svg": "/technotactics_live/static/media/tt.1c38a21e6d2254cf53f095be3329cd1b.svg",
     "index.html": "/technotactics_live/index.html",
     "main.2ad14308.css.map": "/technotactics_live/static/css/main.2ad14308.css.map",
-    "main.79f19e1d.js.map": "/technotactics_live/static/js/main.79f19e1d.js.map"
+    "main.2a46d46c.js.map": "/technotactics_live/static/js/main.2a46d46c.js.map"
   },
   "entrypoints": [
     "static/css/main.2ad14308.css",
-    "static/js/main.79f19e1d.js"
+    "static/js/main.2a46d46c.js"
   ]
 }
