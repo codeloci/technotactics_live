@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/technotactics_live/static/css/main.65cc382a.css",
-    "main.js": "/technotactics_live/static/js/main.8a2fec0a.js",
+    "main.js": "/technotactics_live/static/js/main.06bc1086.js",
     "static/media/Fire-Fighter-VR.png": "/technotactics_live/static/media/Fire-Fighter-VR.091264823a19f9992a98.png",
     "static/media/about-bg.png": "/technotactics_live/static/media/about-bg.1b0669e62000c5af8c90.png",
     "static/media/about_character-1.png": "/technotactics_live/static/media/about_character-1.158503734260d08a92e4.png",
@@ -10,6 +10,7 @@
     "static/media/header-character.png": "/technotactics_live/static/media/header-character.77d1c4c8dff3fd3f6322.png",
     "static/media/NFT.png": "/technotactics_live/static/media/NFT.91c577da8144274b1c6e.png",
     "static/media/MMO.png": "/technotactics_live/static/media/MMO.032782856796c13ddff9.png",
+    "static/media/header-character-2.png": "/technotactics_live/static/media/header-character-2.e8da72d926af111408cb.png",
     "static/media/ludo.png": "/technotactics_live/static/media/ludo.d7f64bcaa58a46303cb1.png",
     "static/media/firefighter.png": "/technotactics_live/static/media/firefighter.ab5afefda23ebfdb8147.png",
     "static/media/s7.png": "/technotactics_live/static/media/s7.4e354984cca4d36eb201.png",
@@ -27,7 +28,6 @@
     "static/media/s3.png": "/technotactics_live/static/media/s3.6f2a21e2953be8c34b80.png",
     "static/media/coloring.png": "/technotactics_live/static/media/coloring.92013beee42f3eb4604b.png",
     "static/media/football.png": "/technotactics_live/static/media/football.428b21e07b9537c7ac97.png",
-    "static/media/nav-icon.png": "/technotactics_live/static/media/nav-icon.a166857f4489ca1477ba.png",
     "static/media/trebucbd.ttf": "/technotactics_live/static/media/trebucbd.69602cfae0f83f11eed2.ttf",
     "static/media/warland.png": "/technotactics_live/static/media/warland.efe7185a610e23c510ce.png",
     "static/media/VR-MMO.jpeg": "/technotactics_live/static/media/VR-MMO.a0583e2b041d9c7a6f8c.jpeg",
@@ -39,6 +39,8 @@
     "static/media/MADE TOMMY Bold_PERSONAL USE.otf": "/technotactics_live/static/media/MADE TOMMY Bold_PERSONAL USE.463024f431b0a3769ed9.otf",
     "static/media/process_half_circle.png": "/technotactics_live/static/media/process_half_circle.f14a706441c48dd3ec6e.png",
     "static/media/logo.png": "/technotactics_live/static/media/logo.49047ad2ce7ca6a9533c.png",
+    "static/media/header-2-char-bg.png": "/technotactics_live/static/media/header-2-char-bg.566035891eb0ee8ae7b1.png",
+    "static/media/header-1-char-bg.png": "/technotactics_live/static/media/header-1-char-bg.dd68b18e7317917520ed.png",
     "static/media/service_logo.png": "/technotactics_live/static/media/service_logo.b47ccaf7d26adbb29e23.png",
     "static/media/Film Noir Adventure.ttf": "/technotactics_live/static/media/Film Noir Adventure.096af90de79dc088ad42.ttf",
     "static/media/Coloring-book-game1.jpeg": "/technotactics_live/static/media/Coloring-book-game1.b969262ace906b5eac89.jpeg",
@@ -46,10 +48,10 @@
     "static/media/tt.svg": "/technotactics_live/static/media/tt.1c38a21e6d2254cf53f095be3329cd1b.svg",
     "index.html": "/technotactics_live/index.html",
     "main.65cc382a.css.map": "/technotactics_live/static/css/main.65cc382a.css.map",
-    "main.8a2fec0a.js.map": "/technotactics_live/static/js/main.8a2fec0a.js.map"
+    "main.06bc1086.js.map": "/technotactics_live/static/js/main.06bc1086.js.map"
   },
   "entrypoints": [
     "static/css/main.65cc382a.css",
-    "static/js/main.8a2fec0a.js"
+    "static/js/main.06bc1086.js"
   ]
 }
