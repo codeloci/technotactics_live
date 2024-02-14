@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/technotactics_live/static/css/main.65cc382a.css",
-    "main.js": "/technotactics_live/static/js/main.06bc1086.js",
+    "main.js": "/technotactics_live/static/js/main.93c5a960.js",
     "static/media/Fire-Fighter-VR.png": "/technotactics_live/static/media/Fire-Fighter-VR.091264823a19f9992a98.png",
     "static/media/about-bg.png": "/technotactics_live/static/media/about-bg.1b0669e62000c5af8c90.png",
     "static/media/about_character-1.png": "/technotactics_live/static/media/about_character-1.158503734260d08a92e4.png",
@@ -48,10 +48,10 @@
     "static/media/tt.svg": "/technotactics_live/static/media/tt.1c38a21e6d2254cf53f095be3329cd1b.svg",
     "index.html": "/technotactics_live/index.html",
     "main.65cc382a.css.map": "/technotactics_live/static/css/main.65cc382a.css.map",
-    "main.06bc1086.js.map": "/technotactics_live/static/js/main.06bc1086.js.map"
+    "main.93c5a960.js.map": "/technotactics_live/static/js/main.93c5a960.js.map"
   },
   "entrypoints": [
     "static/css/main.65cc382a.css",
-    "static/js/main.06bc1086.js"
+    "static/js/main.93c5a960.js"
   ]
 }
